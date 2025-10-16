@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "MLP Debug",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "zoom",
+            "cwd": "${workspaceFolder}/Python_1_Array/ex03",
+            "args": [],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

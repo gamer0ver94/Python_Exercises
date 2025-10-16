@@ -18,5 +18,5 @@ def slice_me(family: list, start: int, end: int) -> list:
     new_shape = np.shape(sliced_lst)
 
     print(f"My shape is : {current_shape}")
-    print(f"My shape is : {new_shape}")
+    print(f"My new shape is : {new_shape}")
     return sliced_lst
