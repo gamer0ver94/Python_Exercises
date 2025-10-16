@@ -2,7 +2,7 @@ from load_csv import load
 
 
 def main():
-    print(load("life_expectncy_years.csv"))
+    print(load("life_expectancy_years.csv"))
     return 0
 
 
